@@ -1,6 +1,6 @@
 --pre
 -f https://download.pytorch.org/whl/torch_stable.html
-torch==2.2.0
+torch==2.4.0
 setuptools>=68.2.2
 cerberus
 h5py
